@@ -28,7 +28,7 @@
         "kamermans/guzzle-oauth2-subscriber": "^1.0",
         "phpoption/phpoption": "^1.7",
         "vlucas/phpdotenv": "*",
-        "react/http": "^1.11",
+        "react/http": "^1.12",
         "league/oauth2-client": "^2.6",
         "psr/http-message": "^1.1|^2.0"
     },
