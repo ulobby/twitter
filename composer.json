@@ -16,6 +16,11 @@
             "homepage": "https://iamreliq.com"
         }
     ],
+    "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ulobby/http"
+    }],
     "require": {
         "php": "^8.1",
         "ext-json": "*",
@@ -28,7 +33,7 @@
         "kamermans/guzzle-oauth2-subscriber": "^1.0",
         "phpoption/phpoption": "^1.7",
         "vlucas/phpdotenv": "*",
-        "react/http": "^1.12",
+        "react/http": "^1.13",
         "league/oauth2-client": "^2.6",
         "psr/http-message": "^1.1|^2.0"
     },
